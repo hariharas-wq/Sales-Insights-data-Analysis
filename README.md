@@ -1,11 +1,6 @@
 # Sales Insight Dashboard using PowerBI
 ## Sales insights project Powerbi Dashboard
 
-This project I learn from code basics youtube channel. you can find link is below.
-
-
-[code basics youtube Playlist](https://www.youtube.com/watch?v=hhZ62IlTxYs&list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9)
-
 
 ## Problem statement
 
@@ -64,29 +59,3 @@ and success criteria  of our project.
 3. how to connect the database’s tables to Power Bi and how to clean & modify the unwanted data in Power Query.
 4. Learned about some major practical DAX functions and measures.
 5. Learned about some major analytical visuals and reports.
-
-
-## Final result 
-
-#### Dashboard KPI Page
-
--------
- <img src="https://github.com/NotRamm/Sales-Insight-Dashboard-using-Power-BI/blob/master/Screenshots/Sales%20Insight%20-%20Page%20KPI.png" class="center">
- 
- #### Dashboard Performance Insights
-
--------
- <img src="https://github.com/NotRamm/Sales-Insight-Dashboard-using-Power-BI/blob/master/Screenshots/Sales%20Insight%20-%20Page%20Performance%20Insights.png" class="center">
- 
-
- #### Dashboard Profit Analysis
- 
- -----------
- 
-  <img src="https://github.com/NotRamm/Sales-Insight-Dashboard-using-Power-BI/blob/master/Screenshots/Sales%20Insight%20-%20Page%20Profit%20Analysis.png" class="center">
-
-
-
-
-
-
